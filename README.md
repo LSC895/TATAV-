@@ -7,7 +7,7 @@ A real-time multi-agent AI battle game where two AI commanders think, react, and
 I build this in one day with Ollma! 
 
 🎮 Live Demo
-https://github.com/user-attachments/assets/YOUR_SCREEN_RECORDING_HERE
+https://drive.google.com/file/d/1vgHIBtrJIGLKF3nyxBI-1sH2UxBoLtlX/view?usp=sharing
 
 Two AI commanders (Agni 🔴 and Vayu 🔵) fight on a live battle map.
 You control the weather, drop loot, send peace offers, or just drop a bomb.
